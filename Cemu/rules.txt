@@ -1,0 +1,5 @@
+[Definition]
+titleIds = 00050000101c9400
+name = "Breath of the Wild - Freecam"
+path = "Enable Nintendo's built-in freecam through the agl library"
+version = 7
